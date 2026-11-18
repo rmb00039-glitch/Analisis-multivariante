@@ -1,0 +1,3 @@
+#### **This repositories verse about the two projects done during "Análisis Multivariante" Lecture, encompassed in the Bioinformatics and Biostatistics Master taught by the University of Barcelona and the Open University of Cantalunya**
+##### This first HTML document provides an initial approach to multivariate data, covering Principal Component Analysis (PCA), Multidimensional Scaling (MDS), and Correspondence Analysis, also using techniques like Scree Plot and Shepards Graphic. 
+##### The second document, by contrast, focuses on multivariate statistics, cluster analysis, and discriminant analysis, using also Silhouette Index to see the number of clusters.
